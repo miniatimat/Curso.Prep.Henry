@@ -1,0 +1,16 @@
+
+* Variables:
+Variables son una forma de poder guardar valores para poder usarlos mas tarde con mayor facilidad.
+
+* Strings:
+Son cadenas de letras. Se escriben entre comillas
+
+* Funciones (argumentos, `return`)
+Son formas de poder reutilizar codigo, cosa de no repetirlo. Las funciones reciben argumentos sobre los cuales la funcion
+va a trabajar. El metodo return significa que la funcion, al finalizar de correr, devuelve algo.
+
+* Declaraciones `if`
+Se utilizan para determinar comportamientos de funciones dependiendo de las circunstancias deseadas
+
+* Valores booleanos (`true`, `false`)
+Se utilizan para poder decidir que realizara la declaracion if.
