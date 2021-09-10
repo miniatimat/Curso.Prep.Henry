@@ -1,0 +1,2 @@
+Arrays son formas de guardar una lista de elementos. Estos elementos pueden ser de cualquier tipo.
+Se puede acceder a cualquier elemento del array utilizando un indice.
